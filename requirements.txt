@@ -1,0 +1,5 @@
+ccxt
+ta
+pandas
+numpy
+python-telegram-bot
